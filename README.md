@@ -1,6 +1,3 @@
-# LLK-EVENTOS-
-Projeto da matéria pensamento computacional da escola José de alemcar 
-
 <!DOCTYPE html>
 <html>
 <head>
